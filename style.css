@@ -9,8 +9,14 @@
 .row{
     border: 1px solid gray;
 }
-.col{
+.col {
     border: 3px solid green;
+}
+.col-6{
+    background-color: red;
+}
+.col-3{
+    background-color: aqua;
 }
 
 .col-md{
