@@ -1,0 +1,10 @@
+.container{
+    border: 3px solid salmon;
+}
+
+.col-5{
+    background-color: aqua;
+}
+.col-3{
+    background-color: blueviolet;
+}
