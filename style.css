@@ -1,0 +1,19 @@
+.container{
+    border: 5px solid black;
+    text-align: center;
+}
+.container-fluid{
+    text-align: center;
+    border: 5px solid red;
+}
+.row{
+    border: 1px solid gray;
+}
+.col{
+    border: 3px solid green;
+}
+
+.col-md{
+    border: 3px solid salmon;
+}
+
