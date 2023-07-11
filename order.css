@@ -1,10 +1,24 @@
 .container{
-    border: 3px solid salmon;
+    border: 3px solid black;
 }
 
-.col-5{
-    background-color: aqua;
+
+.col{
+    /* background-color: blueviolet; */
 }
-.col-3{
-    background-color: blueviolet;
+
+.pink{
+    background-color: pink;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.salmon{
+    background-color: salmon;
+}
+
+.red{
+    background-color: red;
 }
