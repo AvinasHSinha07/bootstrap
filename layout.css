@@ -5,4 +5,9 @@
 
 .row, .col{
     border: 3px solid rebeccapurple;
+
+}
+
+.col{
+    background-color: brown;
 }
